@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "common_killerwhale.h": "c"
+    },
+    "makefile.makefilePath": "rules.mk"
+}
